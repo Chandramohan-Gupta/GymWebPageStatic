@@ -23,7 +23,11 @@ git clone https://github.com/Chandramohan-Gupta/GymWebPageStatic
 
 ## Output
 
-![output1](https://github.com/Chandramohan-Gupta/GymWebPageStatic/images/output/output1.png)
+![output1](https://github.com/Chandramohan-Gupta/GymWebPageStatic/blob/main/images/output/output1.png)
 
-![output2](https://github.com/Chandramohan-Gupta/GymWebPageStatic/images/output/output2.png)
+![output2](https://github.com/Chandramohan-Gupta/GymWebPageStatic/blob/main/images/output/output2.png)
+
+
+![output3](https://github.com/Chandramohan-Gupta/GymWebPageStatic/blob/main/images/output/output3.png)
+
 
